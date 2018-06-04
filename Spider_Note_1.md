@@ -1,4 +1,3 @@
-# WEEK1
 ## Requests库
 * Requests库的7个主要方法
    * requests.request() 构造一个请求
@@ -68,15 +67,3 @@
       * 在网站根目录下的robots.txt文件 
       * 基本语法：
              ``` # 注释: *代表所有，   /代表根目录    User‐agent: *     Disallow: / ```
-
-
-## Requests库爬取实例
-[实例一](file://D:/Projects/PythonTest/spider1.3.1.py)
-
-[实例二](file://D:/Projects/PythonTest/spider1.3.2.py)
-
-[实例三](file://D:/Projects/PythonTest/spider1.3.3.py)
-
-[实例四](file://D:/Projects/PythonTest/spider1.3.4.py)
-
-[实例五](file://D:/Projects/PythonTest/spider1.3.5.py)
